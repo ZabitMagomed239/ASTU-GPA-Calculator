@@ -1,4 +1,5 @@
 #ASTU GPA Calculator
+#Customize your subjects here
 subjects = ["Applied mathematics II", "Statistics", "Emerging", "Logic", "Biology", "Biology Lab", "Physics Lab", "Chemistry Lab"]
 Points = []
 chrs = []
